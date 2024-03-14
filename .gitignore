@@ -3,4 +3,3 @@ data/
 Creds/creds.json
 myenv/
 logs/
-telegram.py
